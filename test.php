@@ -4,7 +4,7 @@
 </head>
 <body>
 <?php
-echo ’PHPのテスト表示成功’;
+    echo("Hello World");
 ?>
 </body>
 </html>
